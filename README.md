@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-  <img src="https://i.ibb.co/gzNdrcQ/github-header-image.png" alt="Header" style="width: 100%;">
+<div style="width: 100%">
+  <img src="https://i.ibb.co/gzNdrcQ/github-header-image.png" alt="Header" style="width: 100%">
 </div>
 <h1 align="center">Hi 👋, I'm Shawon Mahmud</h1>
 <h3 align="center">A Passionate Web Developer 🚀 from Bangladesh.</h3>
