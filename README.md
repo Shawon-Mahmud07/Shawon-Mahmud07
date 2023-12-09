@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/gzNdrcQ/github-header-image.png" alt="Header" style="width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Shawon Mahmud</h1>
-<h3 align="center">A Passionate Web Developer 🚀 from Bangladesh.</h3>
+<h3 align="center">A Passionate 🚀 Web developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.🌐💻</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🌱 I’m currently learning **Next.js and MongoDB**
