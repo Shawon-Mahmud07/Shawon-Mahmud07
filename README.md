@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="https://i.ibb.co/gzNdrcQ/github-header-image.png" alt="Header" style="width: 100%;">
+  <img src="https://i.ibb.co/pW5fnQX/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Header" style="width: 100%;">
 </div>
 <h1 align="center">Hi 👋, I'm Shawon Mahmud</h1>
 <h3 align="center">A Passionate 🚀 Web developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.🌐💻</h3>
