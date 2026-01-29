@@ -43,8 +43,9 @@
 ---
 
 ## 📊 GitHub Activity & Stats
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Shawon-Mahmud07&label=Profile%20Views&countColor=%23263238&style=flat)
 <p align="center">
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=github_dark" />
 </p>
 
