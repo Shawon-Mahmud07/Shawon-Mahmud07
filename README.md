@@ -21,53 +21,38 @@
 ---
 
 ## 🛠️ Core Skills & Tools
-<table width="100%">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Left Side: Skills -->
-    <td valign="top" width="50%">
+    <td width="60%" align="left" valign="top" style="border: none !important;">
       <h4>Core Skills</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb&perline=9" />
-      </p>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb&perline=9" />
       <h4>Tools</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
-      </p>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
       <h4>Cloud & Deployment</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify&perline=3" />
-      </p>
+      <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify&perline=3" />
     </td>
-    <!-- Right Side: GIF -->
-    <td valign="top" width="50%">
-      <p align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="max-width:100%; height:auto;" alt="coding animation" />
-      </p>
+    <td width="40%" align="right" valign="middle" style="border: none !important;">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="max-width: 300px;" />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
 ## 📊 GitHub Activity & Stats
-<table width="100%">
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=github_dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shawon-Mahmud07&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
+</p>
 
 ---
 
@@ -93,6 +78,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
 
 ---
 
