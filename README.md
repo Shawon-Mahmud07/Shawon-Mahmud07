@@ -48,13 +48,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=tokyonight" height="195px" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shawon-Mahmud07&theme=tokyonight&hide_border=true&cache=false" height="150px"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shawon-Mahmud07&theme=tokyonight&hide_border=true" height="150px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
