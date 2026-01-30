@@ -43,16 +43,17 @@
 ---
 
 ## 📊 GitHub Activity & Stats
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Shawon-Mahmud07&label=Profile%20Views&countColor=%23263238&style=flat)
+
 <p align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=tokyonight" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shawon-Mahmud07&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shawon-Mahmud07&theme=tokyonight" height="150px" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shawon-Mahmud07&theme=tokyonight&hide_border=true&cache=false" height="150px"/>
+  </a>
 </p>
 
 ---
