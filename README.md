@@ -15,9 +15,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 <!-- About Me Section -->
-## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="35" height="30" />About Me
 
-<h4>🚀 Elevating Digital Experiences</h4>
+<h4> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20" style="vertical-align: middle;"> Elevating Digital Experiences</h4>
       <p>I am a Frontend Specialist dedicated to building high-performance, accessible, and scalable web applications. My focus lies at the intersection of clean code and seamless user experience.</p>
 <ul>
   <li>🌱 <b>Focus:</b> Modern frontend architecture with Next.js</li>
@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🛠️ Core Skills & Tools
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNTRnN3JnbG1rOXNtOHlpbDZjd3dudHAwZ2lteGl3cGt4NDZmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" alt="Stat" width="40" height="35" style="vertical-align: middle;"> Core Skills & Tools
 ### 🔹 Core Skills
 <p align="left">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb&perline=9" />
@@ -46,12 +46,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Activity & Stats
+
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ0YnRteGZvZ2JzMTJsM21sYjc3c3I1eGQ2OGtveWRudHIzaGwyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MIGbtLZoVjbl0bYbAd/giphy.gif" alt="Stat" width="30" height="30" style="vertical-align: middle;"> GitHub Activity & Stats
 <!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=tokyonight" height="195px" />
 </p>
-
 <table align="center">
   <tr>
     <td>
@@ -74,7 +75,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Connect With Me
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faf1_1f3fb_200d_1faf2_1f3fc/512.gif" alt="🫱" width="30" height="35" style="vertical-align: middle;"> <span style="font-size: 16px; line-height: 20px;">Connect With Me</span>
+---
+
 <p align="center">
   <a href="https://shawon-mahmud.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=googlesites&logoColor=white" alt="Portfolio" />
