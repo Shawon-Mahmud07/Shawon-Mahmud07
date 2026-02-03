@@ -5,45 +5,49 @@
 
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />, I'm <b>Shawon Mahmud</b></h1>
-  <h3>Front-End Developer | React.js • Next.js • JavaScript</h3>
-  <p>Building clean & scalable web interfaces | Expanding toward Full-Stack</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=28&center=true&vCenter=true&width=720&height=70&duration=4200&lines=Front-End+Developer;React.js+and+Next.js+Focused+Development" />
+  <p><strong>Building clean & scalable web interfaces • Modern UI Enthusiast • Expanding toward Full-Stack</strong></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
----
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🌱 Deepening my skills in **Next.js** & modern frontend architecture  
-- 🧠 Writing **clean, maintainable & performance-oriented UI code**  
-- 💬 Ask me about **JavaScript, React.js & Front-End Best Practices**  
-- 🎯 Career goal: Strong **Front-End Engineer with Full-Stack capability**
+<!-- About Me Section -->
+## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" /> About Me
 
----
+<h4>🚀 Elevating Digital Experiences</h4>
+      <p>I am a Frontend Specialist dedicated to building high-performance, accessible, and scalable web applications. My focus lies at the intersection of clean code and seamless user experience.</p>
+<ul>
+  <li>🌱 <b>Focus:</b> Modern frontend architecture with Next.js</li>
+  <li>🛠️ <b>Approach:</b> Clean, maintainable, and modular UI development</li>
+  <li>💬 <b>Collaboration:</b> JavaScript internals, React design patterns, and best practices</li>
+  <li>🎯 <b>Goal:</b> Evolving into a Full-Stack Engineer with a strong Frontend foundation</li>
+</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Core Skills & Tools
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" align="left" valign="top" style="border: none !important;">
-      <h4>Core Skills</h4>
+### 🔹 Core Skills
+<p align="left">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb&perline=9" />
-      <h4>Tools</h4>
+  </p>
+  
+### 🔹 Tools
+<p align="left">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
-      <h4>Cloud & Deployment</h4>
+  </p>
+  
+### 🔹 Cloud & Deployment
+<p align="left">
       <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify&perline=3" />
-    </td>
-    <td width="40%" align="right" valign="middle" style="border: none !important;">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="max-width: 300px;" />
-    </td>
-  </tr>
-</table>
+      </p>
 
-
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Activity & Stats
-
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=tokyonight" height="195px" />
 </p>
@@ -63,8 +67,12 @@
     </td>
   </tr>
 </table>
+-->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Shawon-Mahmud07&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect With Me
 <p align="center">
@@ -90,8 +98,11 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   ⚡ Clean UI • ⚡ Performance • ⚡ Continuous Learning
 </p>
+
+
+
