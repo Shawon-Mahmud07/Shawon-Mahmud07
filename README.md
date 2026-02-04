@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=28&center=true&vCenter=true&width=720&height=70&duration=4200&lines=Front-End+Developer;React.js+and+Next.js+Focused+Development" />
   
   <p><strong>Building clean & scalable web interfaces • Modern UI Enthusiast • Expanding toward Full-Stack</strong></p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+---
 
 [//]: # (============================================================)
 [//]: # (ABOUT ME SECTION: Bio text and Right-aligned Coding GIF)
