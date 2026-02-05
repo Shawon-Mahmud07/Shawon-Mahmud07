@@ -9,7 +9,11 @@
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />, I'm <b>Shawon Mahmud</b></h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=28&center=true&vCenter=true&width=720&height=70&duration=4200&lines=Front-End+Developer;React.js+and+Next.js+Focused+Development" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=28&center=true&vCenter=true&width=900&height=70&duration=4200&lines=Front-End+Developer;React.js+%26+Next.js+Specialist;Building+Modern+Web+Experiences" 
+/>
+
+
   
   <p><strong>Building clean & scalable web interfaces • Modern UI Enthusiast • Expanding toward Full-Stack</strong></p>
 </div>
