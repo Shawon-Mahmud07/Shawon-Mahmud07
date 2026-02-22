@@ -32,9 +32,9 @@
       <p>I am a Frontend Specialist dedicated to building high-performance, accessible, and scalable web applications. My focus lies at the intersection of clean code and seamless user experience.</p>
 <ul>
   <li>🌱 <b>Focus:</b> Modern frontend architecture with Next.js</li>
-  <li>🛠️ <b>Approach:</b> Clean, maintainable, and modular UI development</li>
-  <li>💬 <b>Collaboration:</b> JavaScript internals, React design patterns, and best practices</li>
-  <li>🎯 <b>Goal:</b> Evolving into a Full-Stack Engineer with a strong Frontend foundation</li>
+  <li>🛠️ <b>Approach:</b> Clean, maintainable, and modular UI development.</li>
+  <li>💬 <b>Collaboration:</b> JavaScript internals, React design patterns, and best practices.</li>
+  <li>🎯 <b>Goal:</b> Evolving into a Full-Stack Engineer with a strong Frontend foundation.</li>
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
