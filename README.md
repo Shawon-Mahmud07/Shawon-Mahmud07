@@ -43,7 +43,7 @@
 [//]: # (SKILLS SECTION: Languages, Tools, and Deployment)
 [//]: # (============================================================)
 
-
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shawon-Mahmud07&theme=tokyonight" height="195px" />
 </p>
@@ -62,7 +62,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNTRnN3JnbG1rOXNtOHlpbDZjd3dudHAwZ2lteGl3cGt4NDZmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" alt="Stat" width="40" height="35" style="vertical-align: middle;"> Core Skills & Tools
 
